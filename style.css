@@ -353,7 +353,7 @@ ul, li {
 
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 300px) {
 	.container {
 		width: 90%;
 		margin: auto;
