@@ -352,3 +352,10 @@ ul, li {
 	}
 
 }
+
+@media screen and (max-width: 500px) {
+	.container {
+		width: 90%;
+		margin: auto;
+	}
+}
